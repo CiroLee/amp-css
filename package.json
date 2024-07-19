@@ -1,0 +1,9 @@
+{
+  "name": "amp-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "global.css",
+  "keywords": [],
+  "author": "CiroLee<https://github.com/CiroLee>",
+  "license": "MIT"
+}
